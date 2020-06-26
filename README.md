@@ -12,7 +12,7 @@ I include an implementation part of the image denoising model based on CNN and s
 
 <div class="row">
   <div class="column">
-    <img src="https://github.com/Emharsh/Keras-Deep-CNN-for-Image-Denoising/blob/master/results/sigma25_fig1.png" width="350" height="300" padding="5px"> 
+    <img src="https://github.com/Emharsh/Keras-Deep-CNN-for-Image-Denoising/blob/master/results/sigma25_fig1.png" width="350" height="300" padding="50px"> 
     <img src="https://github.com/Emharsh/Keras-Deep-CNN-for-Image-Denoising/blob/master/results/sigma25_fig2.png" width="350" height="300">
   </div>
 </div>
