@@ -34,9 +34,6 @@ I include an implementation part of the image denoising model based on CNN and s
   <tr>
     <th>Level of Noise</th>
     <th>PSNR/SSIM</th>
-    <th>PSNR/SSIM</th>
-    <th>PSNR/SSIM</th>
-    <th>PSNR/SSIM</th>
   </tr>
   <tr>
     <td >25</td>
