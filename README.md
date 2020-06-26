@@ -10,8 +10,3 @@ I include an implementation part of the image denoising model based on CNN and s
 • use of deep convolution neural network layer where extraction of the features are done on the primary layers, processing of the images are done on the
   middle layer
   
-<p align="center">
-  <img src="/home/harshit/Desktop/Final Year Projects Docs/images.png" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
-</p>  
-  
