@@ -11,5 +11,5 @@ I include an implementation part of the image denoising model based on CNN and s
   middle layer
   
 <p align="left">
-  <img src="https://github.com/Emharsh/Keras-Deep-CNN-for-Image-Denoising/blob/master/results/sigma25_fig1.png" width="200" height="400">
+  <img src="https://github.com/Emharsh/Keras-Deep-CNN-for-Image-Denoising/blob/master/results/sigma25_fig1.png" width="350" height="300">
 </p>
