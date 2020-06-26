@@ -9,16 +9,10 @@ I include an implementation part of the image denoising model based on CNN and s
 
 • use of deep convolution neural network layer where extraction of the features are done on the primary layers, processing of the images are done on the
   middle layer
-  
-<p align="left">
-  <img src="https://github.com/Emharsh/Keras-Deep-CNN-for-Image-Denoising/blob/master/results/sigma25_fig1.png" width="350" height="300">
-</p>
 
 <div class="row">
   <div class="column">
     <img src="https://github.com/Emharsh/Keras-Deep-CNN-for-Image-Denoising/blob/master/results/sigma25_fig1.png" width="350" height="300">
-  </div>
-  <div class="column">
     <img src="https://github.com/Emharsh/Keras-Deep-CNN-for-Image-Denoising/blob/master/results/sigma25_fig2.png" width="350" height="300">
   </div>
 </div>
