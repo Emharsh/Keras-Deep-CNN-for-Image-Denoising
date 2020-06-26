@@ -12,9 +12,19 @@ I include an implementation part of the image denoising model based on CNN and s
   
 ## Results
 ### PSNR and SSIM
+#### Noise Level 25
 <div class="row">
   <div class="column">
-    <img src="https://github.com/Emharsh/Keras-Deep-CNN-for-Image-Denoising/blob/master/results/sigma25_fig1.png" width="200" height="200" style="padding-left: 10px; padding-bottom: 20px;"> 
-    <img src="https://github.com/Emharsh/Keras-Deep-CNN-for-Image-Denoising/blob/master/results/sigma25_fig2.png" width="200" height="200" style="padding-left: 10px; padding-bottom: 20px;">
+    <img src="https://github.com/Emharsh/Keras-Deep-CNN-for-Image-Denoising/blob/master/results/sigma25_fig1.png" width="300" height="300"> 
+    <img src="https://github.com/Emharsh/Keras-Deep-CNN-for-Image-Denoising/blob/master/results/sigma25_fig2.png" width="300" height="300">
+    <img src="https://github.com/Emharsh/Keras-Deep-CNN-for-Image-Denoising/blob/master/results/sigma25_fig3.png" width="300" height="300"> 
+    <img src="https://github.com/Emharsh/Keras-Deep-CNN-for-Image-Denoising/blob/master/results/sigma25_fig4.png" width="300" height="300">
+  </div>
+  
+  <div class="column">
+    <img src="https://github.com/Emharsh/Keras-Deep-CNN-for-Image-Denoising/blob/master/results/sigma30_fig1.png" width="300" height="300"> 
+    <img src="https://github.com/Emharsh/Keras-Deep-CNN-for-Image-Denoising/blob/master/results/sigma30_fig2.png" width="300" height="300">
+    <img src="https://github.com/Emharsh/Keras-Deep-CNN-for-Image-Denoising/blob/master/results/sigma30_fig3.png" width="300" height="300"> 
+    <img src="https://github.com/Emharsh/Keras-Deep-CNN-for-Image-Denoising/blob/master/results/sigma30_fig4.png" width="300" height="300">
   </div>
 </div>
