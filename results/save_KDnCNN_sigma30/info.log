@@ -1,0 +1,6 @@
+2020 20:20:35 model.py[line:64] INFO Namespace(TestOnly=False, batch_size=128, epoch=2, lr=0.001, model='KDnCNN', preTrainedModel=None, save_every=1, sigma=30, test_dir='data/Test/Set68', train_data='data/npy_data/cleanPatches.npy')
+2020 20:20:35 model.py[line:74] INFO 
+Train data is loaded
+2020 20:20:35 model.py[line:75] INFO Size of the Train data: (88804, 40, 40)
+2020 20:20:36 deprecation_wrapper.py[line:119] WARNING From /home/harshit/.local/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
