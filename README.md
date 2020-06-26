@@ -29,7 +29,9 @@ I include an implementation part of the image denoising model based on CNN and s
   </div>
 </div>
 
-### PSNR and SSIM
+<!DOCTYPE html>
+<html>
+<head>
 <style>
 table {
   font-family: arial, sans-serif;
@@ -47,3 +49,39 @@ tr:nth-child(even) {
   background-color: #dddddd;
 }
 </style>
+</head>
+<body>
+
+<h2>PSNR and SSIM</h2>
+
+<table>
+  <tr>
+    <th>Level of Noise</th>
+    <th>PSNR/SSIM</th>
+    <th>PSNR/SSIM</th>
+    <th>PSNR/SSIM</th>
+    <th>PSNR/SSIM</th>
+  </tr>
+  <tr>
+    <td >25</td>
+    <td>28.39/0.84</td>
+    <td>26.99/0.84</td>
+    <td>26.88/0.85</td>
+    <td>27.25/0.83</td>
+    
+  </tr>
+  <tr>
+    <td>25</td>
+    <td>28.24/0.85</td>
+    <td>26.53/0.82</td>
+    <td>26.48/0.84</td>
+    <td>29.88/0.877</td>
+    
+  </tr>
+
+</table>
+
+</body>
+</html>
+
+
