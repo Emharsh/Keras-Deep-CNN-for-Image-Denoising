@@ -14,7 +14,7 @@ I include an implementation part of the image denoising model based on CNN and s
 ### PSNR and SSIM
 <div class="row">
   <div class="column">
-    <img src="https://github.com/Emharsh/Keras-Deep-CNN-for-Image-Denoising/blob/master/results/sigma25_fig1.png" width="200" height="200" style="padding-left: 10px; padding-bottom: 20px"> 
-    <img src="https://github.com/Emharsh/Keras-Deep-CNN-for-Image-Denoising/blob/master/results/sigma25_fig2.png" width="200" height="200" padding="5px">
+    <img src="https://github.com/Emharsh/Keras-Deep-CNN-for-Image-Denoising/blob/master/results/sigma25_fig1.png" width="200" height="200" style="padding-left: 10px; padding-bottom: 20px;"> 
+    <img src="https://github.com/Emharsh/Keras-Deep-CNN-for-Image-Denoising/blob/master/results/sigma25_fig2.png" width="200" height="200" style="padding-left: 10px; padding-bottom: 20px;">
   </div>
 </div>
