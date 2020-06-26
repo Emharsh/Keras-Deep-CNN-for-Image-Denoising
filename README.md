@@ -29,8 +29,7 @@ I include an implementation part of the image denoising model based on CNN and s
   </div>
 </div>
 
-<h2>PSNR and SSIM</h2>
-
+<h3>PSNR and SSIM</h3>
 <table>
   <tr>
     <th>Level of Noise</th>
@@ -44,20 +43,16 @@ I include an implementation part of the image denoising model based on CNN and s
     <td>28.39/0.84</td>
     <td>26.99/0.84</td>
     <td>26.88/0.85</td>
-    <td>27.25/0.83</td>
-    
+    <td>27.25/0.83</td> 
   </tr>
   <tr>
-    <td>25</td>
+    <td>30</td>
     <td>28.24/0.85</td>
     <td>26.53/0.82</td>
     <td>26.48/0.84</td>
     <td>29.88/0.877</td>
-    
   </tr>
-
 </table>
-
 </body>
 </html>
 
