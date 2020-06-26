@@ -29,29 +29,6 @@ I include an implementation part of the image denoising model based on CNN and s
   </div>
 </div>
 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-td, th {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
-}
-
-tr:nth-child(even) {
-  background-color: #dddddd;
-}
-</style>
-</head>
-<body>
-
 <h2>PSNR and SSIM</h2>
 
 <table>
